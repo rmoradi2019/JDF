@@ -6,7 +6,6 @@ gregorian to jalali Library
 Get Date And Time To Jalali
 
 # Use Info
-
 For Get Date :
 $regdate = jdate('Y-m-d', '', '', 'Asia/Tehran', 'en');
 For Get Time :
